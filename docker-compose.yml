@@ -13,4 +13,4 @@ services:
     restart: always
     tty: true
     volumes:
-      - /home/gd:/home/gd
+      - /data:/data
